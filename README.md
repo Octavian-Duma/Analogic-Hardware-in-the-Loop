@@ -1,4 +1,4 @@
-# Buck Converter Analog Hardware in the Loop (AnHIL) Project
+# Buck Converter Analogical Hardware in the Loop (AnHIL) 
 
 This project focuses on designing and simulating an Analog Hardware in the Loop (AnHIL) system for a Buck converter, which is a DC-DC step-down voltage converter. 
 
